@@ -6,7 +6,7 @@ export default function checkout() {
       <section className="checkout mx-auto pt-md-100 pb-md-145 pt-30 pb-30">
         <div className="container-fluid">
             <div className="logo text-md-center text-start pb-50">
-                <a className="" href="#">
+                <a className="" href="/#">
                     <svg width="60" height="60" viewBox="0 0 60 60" fill="none" xmlns="http://www.w3.org/2000/svg">
                         <mask id="mask0" mask-type="alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="60"
                             height="60">

@@ -190,7 +190,7 @@ export default function notFoundPage() {
                     tidak tersedia pada sistem kami dan menghubungi</p>
             </div>
             <div className="button-group d-flex flex-column mx-auto">
-                <a className="btn btn-homepage fw-medium text-lg text-white rounded-pill" href="#"
+                <a className="btn btn-homepage fw-medium text-lg text-white rounded-pill" href="/#"
                     role="button">Homepage</a>
             </div>
         </div>
