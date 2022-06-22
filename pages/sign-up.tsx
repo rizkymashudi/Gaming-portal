@@ -1,7 +1,6 @@
 
-export default function signUp() {
+export default function SignUp() {
   return (
-   <>
     <section className="sign-up mx-auto pt-lg-100 pb-lg-100 pt-30 pb-47">
         <div className="container mx-auto">
             <form action="">
@@ -52,6 +51,5 @@ export default function signUp() {
             </form>
         </div>
     </section>
-   </>
   );
 }

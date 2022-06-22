@@ -1,6 +1,4 @@
-import React from 'react';
-
-export default function aboutUs() {
+export default function AboutUs() {
   return (
     <p>aboutus</p>
   );

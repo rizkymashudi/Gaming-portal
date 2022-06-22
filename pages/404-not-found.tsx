@@ -1,4 +1,4 @@
-export default function notFoundPage() {
+export default function NotFoundPage() {
   return (
     <>
       <section className="not-found mx-auto pt-145 pb-md-212 pb-100">
